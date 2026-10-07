@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-07T21:05:11.867Z",
+  "status": "PASS",
+  "tests": [
+    "Catalog, scheduler, backup validation",
+    "Fresh state starts at zero",
+    "Recall, wrong/correct quiz, completion, note, bookmark persistence",
+    "Notebook escapes user text",
+    "Due review schedules cards; free review preserves due schedule",
+    "Search without diacritics, empty recovery, module filtering",
+    "Project draft, rubric persist and Markdown download",
+    "Skill self-assessment persistence",
+    "JSON backup download, reject invalid, cancel/confirm restore",
+    "Route recovery and keyboard search",
+    "108 route/viewport compositions without horizontal overflow",
+    "Mobile menu focus trap, Escape and focus restoration",
+    "Dark theme across routes and visible keyboard focus",
+    "All 32 lessons render full learning flow",
+    "No browser console or runtime errors"
+  ],
+  "routeViewportCompositions": 108,
+  "consoleErrors": []
+}

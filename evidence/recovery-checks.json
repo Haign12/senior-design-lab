@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-10-07T21:06:27.630Z",
+  "checks": [
+    "file:// entry opens lessons and persists notes in Chromium",
+    "Corrupt stored data is preserved; memory-only warning shown",
+    "Storage quota failure keeps notes in memory and shows backup guidance",
+    "Core text/background token pairs exceed 4.5:1 in both themes",
+    "Reduced motion, final fresh-state desktop/mobile screenshots"
+  ],
+  "contrastRatios": {
+    "light ink/page": 14.01,
+    "light muted/surface": 6.08,
+    "light muted/accent-soft": 5.12,
+    "light on-accent/accent": 8.31,
+    "dark ink/page": 14.73,
+    "dark muted/surface": 7.93,
+    "dark muted/accent-soft": 5.67,
+    "dark on-accent/accent": 10.02
+  }
+}

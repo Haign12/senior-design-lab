@@ -1,0 +1,9 @@
+{
+  "website_type": "education",
+  "domain": "education-learning",
+  "product_archetype": "learning-experience",
+  "mode": "interactive-prototype",
+  "validation_lane": "prototype",
+  "features": ["curriculum", "retrieval-practice", "spaced-review", "practice-workbook", "local-progress"],
+  "project_name": "Senior Design Lab"
+}
